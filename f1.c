@@ -4,3 +4,9 @@ main()
 	printf("and the presence of absense\n");
 	printf("webpage not found!\n");
 }
+feature1()
+{
+	printf("no available space\n");
+	printf("look to the cloud");
+	printf("your drive is full!"\n);
+}
